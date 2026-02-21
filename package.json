@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "googleapi": "^1.0.2",
     "googleapis": "^171.4.0"
   }
+=======
+  "name": "auto-syllabus",
+  "version": "1.0.0"
+  
+>>>>>>> ab773c5b3db917e92f6c195c71a28e13dbfac556
 }
